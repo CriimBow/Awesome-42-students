@@ -51,6 +51,7 @@ Merci aux contributeurs !
 - [RP42](https://github.com/alexandregv/RP42) : Rich Presence Discord pour 42 (campus, position, niveau, coalition, etc)
 
 ### Clubs et associations
+Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.  
 - [Site des associations](https://associations42.wtf/association.php)
 - 42-ai
 - 42green
@@ -63,7 +64,7 @@ Merci aux contributeurs !
 - [CPP42](https://cpp42.fr/)
 - Junior : Junior Entreprise de 42
 - Stud42
-- [42Escalade](https://www.helloasso.com/associations/bureau-des-etudiants-de-42/adhesions/adhesion-42escalade) : Sorties régulières et réductions dans plusieurs salles, slack [#42paris_club_42escalade](https://42born2code.slack.com/archives/CREFM55PC)
+- [42Escalade](https://www.helloasso.com/associations/bureau-des-etudiants-de-42/adhesions/adhesion-42escalade) : Sorties régulières et réductions dans plusieurs salles
 
 ## Vie hors du campus
 
