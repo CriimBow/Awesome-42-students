@@ -77,11 +77,11 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 #### Culture
 
 #### Nourriture
-- [Nestor](https://nestorparis.com) : Livraison de repas - **8€90** - renseigner l'adresse "96 Boulevard Bessières, 75017 Paris" avec le coupon `NESTOR42`
+- [Nestor](https://nestorparis.com) : Livraison de repas - **8€** - renseigner l'adresse "96 Boulevard des Maréchaux, 75017 Paris" avec le coupon `NESTOR42`
 
 #### Ressources informatiques
 - [Lucidchart](https://www.lucidchart.com/pages/usecase/education) : Outil de diagrammes - **GRATUIT** - renseigner votre adresse mail étudiante
 - [JetBrains](https://www.jetbrains.com/) : Ensemble d'IDE - **GRATUIT** - renseigner votre adresse mail étudiante
 - [Office 365 Éducation](https://www.microsoft.com/fr-fr/education/products/office) : Pack Office - **GRATUIT** - renseigner votre adresse mail étudiante
 - [YesWeHackEdu](https://docs.google.com/forms/d/e/1FAIpQLSeLwXC0STvJDtVP4U7eluXVVqBiJaDHAHFsXpsRKI0iwgMJmw/viewform) : Apprenez le bug bounty - **GRATUIT** - renseigner votre adresse mail étudiante
-
+- [GitHub](https://education.github.com/benefits) : Obtenez le Student Developper Pack gratuitement, en renseignant votre adresse mail étudiante et en uploadant un document prouvant votre statut d'étudiant à 42 (mesure en place pour différencier les étudiants des piscineux).
