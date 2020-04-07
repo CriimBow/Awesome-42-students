@@ -46,8 +46,12 @@ Merci aux contributeurs !
 - [Calculateur d'expérience](https://42.tbailleu.dev/)
 - [Stud42](https://stud42.fr/)
 - [Sujets et corrections du cursus](https://github.com/Binary-Hackers)
+- [Discord 42](https://discord.gg/wsrkKE4)
+- [42toolbox](https://github.com/alexandregv/42toolbox) : Boite à outils pour vous faciliter la vie à 42 (docker, valgrind, setup session, etc)
+- [RP42](https://github.com/alexandregv/RP42) : Rich Presence Discord pour 42 (campus, position, niveau, coalition, etc)
 
 ### Clubs et associations
+- [Site des associations](https://associations42.wtf/association.php)
 - 42-ai
 - 42green
 - [42l](https://42l.fr/) : Promotion de la culture libre et de l'éthique
@@ -59,6 +63,7 @@ Merci aux contributeurs !
 - [CPP42](https://cpp42.fr/)
 - Junior : Junior Entreprise de 42
 - Stud42
+- [42Escalade](https://www.helloasso.com/associations/bureau-des-etudiants-de-42/adhesions/adhesion-42escalade) : Sorties régulières et réductions dans plusieurs salles, slack [#42paris_club_42escalade](https://42born2code.slack.com/archives/CREFM55PC)
 
 ## Vie hors du campus
 
