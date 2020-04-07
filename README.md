@@ -75,6 +75,8 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 #### Bars
 
 #### Culture
+- [Artistik Rezo](http://www.clubartistikrezo.com) : Le club vous propose des sorties culturelles toute l'année valables pour deux personnes.<br />
+C'est gratuit, il suffit de compléter le [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf7ZvrcLHmTYbqN7IsILcakVAzHz6-FzrlxLor-U9I3Lv3X-Q/viewform)
 
 #### Nourriture
 - [Nestor](https://nestorparis.com) : Livraison de repas - **8€90** - renseigner l'adresse "96 Boulevard Bessières, 75017 Paris" avec le coupon `NESTOR42`
