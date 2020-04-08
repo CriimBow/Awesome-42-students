@@ -63,6 +63,7 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 - [L'Association Sans Nom](https://sansnom.org/) : Libre, sécurité et lock picking
 - BDE
 - [CPP42](https://cpp42.fr/)
+- [#include](https://42include.me)
 - Junior : Junior Entreprise de 42
 - Stud42
 - [42Escalade](https://www.helloasso.com/associations/bureau-des-etudiants-de-42/adhesions/adhesion-42escalade) : Sorties régulières et réductions dans plusieurs salles
