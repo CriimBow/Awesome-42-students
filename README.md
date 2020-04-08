@@ -76,8 +76,7 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 #### Bars
 
 #### Culture
-- [Artistik Rezo](http://www.clubartistikrezo.com) : Le club vous propose des sorties culturelles toute l'année valables pour deux personnes.<br />
-C'est gratuit, il suffit de compléter le [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf7ZvrcLHmTYbqN7IsILcakVAzHz6-FzrlxLor-U9I3Lv3X-Q/viewform)
+- [Artistik Rezo](http://www.clubartistikrezo.com) : Sorties culturelles toute l'année valables pour deux personnes - **GRATUIT** - compléter le [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf7ZvrcLHmTYbqN7IsILcakVAzHz6-FzrlxLor-U9I3Lv3X-Q/viewform)
 
 #### Nourriture
 - [Nestor](https://nestorparis.com) : Livraison de repas - **8€** - renseigner l'adresse "96 Boulevard des Maréchaux, 75017 Paris" avec le coupon `NESTOR42`
@@ -87,4 +86,4 @@ C'est gratuit, il suffit de compléter le [formulaire d'inscription](https://doc
 - [JetBrains](https://www.jetbrains.com/) : Ensemble d'IDE - **GRATUIT** - renseigner votre adresse mail étudiante
 - [Office 365 Éducation](https://www.microsoft.com/fr-fr/education/products/office) : Pack Office - **GRATUIT** - renseigner votre adresse mail étudiante
 - [YesWeHackEdu](https://docs.google.com/forms/d/e/1FAIpQLSeLwXC0STvJDtVP4U7eluXVVqBiJaDHAHFsXpsRKI0iwgMJmw/viewform) : Apprenez le bug bounty - **GRATUIT** - renseigner votre adresse mail étudiante
-- [GitHub](https://education.github.com/benefits) : Obtenez le Student Developper Pack gratuitement, en renseignant votre adresse mail étudiante et en uploadant un document prouvant votre statut d'étudiant à 42 (mesure en place pour différencier les étudiants des piscineux).
+- [GitHub](https://education.github.com/benefits) : Obtenez le Student Developper Pack - **GRATUIT** - en renseignant votre adresse mail étudiante et en uploadant un document prouvant votre statut d'étudiant à 42 (mesure en place pour différencier les étudiants des piscineux).
