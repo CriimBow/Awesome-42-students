@@ -54,7 +54,7 @@ Merci aux contributeurs !
 ### Clubs et associations
 Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.  
 - [Site des associations](https://associations42.wtf/association.php)
-- 42-ai
+- [42 Artificial Intelligence](https://github.com/42-ai)
 - 42green
 - [42l](https://42l.fr/) : Promotion de la culture libre et de l'éthique
 - 42lux
