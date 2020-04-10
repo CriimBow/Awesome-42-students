@@ -50,6 +50,7 @@ Merci aux contributeurs !
 - [42toolbox](https://github.com/alexandregv/42toolbox) : Boite à outils pour vous faciliter la vie à 42 (docker, valgrind, setup session, etc)
 - [RP42](https://github.com/alexandregv/RP42) : Rich Presence Discord pour 42 (campus, position, niveau, coalition, etc)
 - [Born to Code in the World](https://borntocode.in/) : Les établissements du 42 Network
+- [Find_correction](https://github.com/rfautier/find_correction) : Trouver un peer qui a fait un projet et qui est connecté dans un campus.
 
 ### Clubs et associations
 Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.  
