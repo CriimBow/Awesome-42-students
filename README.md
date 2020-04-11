@@ -86,6 +86,6 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 #### Ressources informatiques
 - [Lucidchart](https://www.lucidchart.com/pages/usecase/education) : Outil de diagrammes - **GRATUIT** - renseigner votre adresse mail étudiante
 - [JetBrains](https://www.jetbrains.com/) : Ensemble d'IDE - **GRATUIT** - renseigner votre adresse mail étudiante
-- [Office 365 Éducation](https://www.microsoft.com/fr-fr/education/products/office) : Pack Office - **GRATUIT** - renseigner votre adresse mail étudiante
+- [Office 365 Éducation](https://www.microsoft.com/fr-fr/education/products/office) : Office 365 A1 for Students (versions web uniquement d'Office, 1To d'espace OneDrive/SharePoint...) - **GRATUIT** - renseigner votre adresse mail étudiante
 - [YesWeHackEdu](https://docs.google.com/forms/d/e/1FAIpQLSeLwXC0STvJDtVP4U7eluXVVqBiJaDHAHFsXpsRKI0iwgMJmw/viewform) : Apprenez le bug bounty - **GRATUIT** - renseigner votre adresse mail étudiante
 - [GitHub](https://education.github.com/benefits) : Obtenez le Student Developper Pack - **GRATUIT** - en renseignant votre adresse mail étudiante et en uploadant un document prouvant votre statut d'étudiant à 42 (mesure en place pour différencier les étudiants des piscineux).
