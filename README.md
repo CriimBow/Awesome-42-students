@@ -78,11 +78,19 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 
 #### Bars
 
+- Le 95 *95 Boulevard Bessières, PARIS 17, 75017*
+- Le Cafée du Théatre (dit CDT) *86 Rue de La Jonquière*
+- Les phénomènes *63 Rue de La Jonquière, 75017 Paris*
+- Chez Irrène et Bernard : *58 Rue Gauthey, 75017 Paris*
+
 #### Culture
 - [Artistik Rezo](http://www.clubartistikrezo.com) : Sorties culturelles toute l'année valables pour deux personnes - **GRATUIT** - compléter le [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf7ZvrcLHmTYbqN7IsILcakVAzHz6-FzrlxLor-U9I3Lv3X-Q/viewform)
 
 #### Nourriture
 - [Nestor](https://nestorparis.com) : Livraison de repas - **8€** - renseigner l'adresse "96 Boulevard des Maréchaux, 75017 Paris" avec le coupon `NESTOR42`
+- [Pizza King](https://pizzakingparis17.fr/) *107 Boulevard Bessières, PARIS 17, 75017* : Pizza à - **8€** - avec le menu 42, sur place ou à emporté
+- La petite cabane *juste en face* : Tortillas, souflés, sandwitch de **3€** à **5€**, carte de fidélité pour 10 sanwitch achwté, le 11ème offert
+- [Vegan Hero](https://supervegan.business.site/) *118 Rue des Moines, 75017 Paris* - Fast food Végan (10% pour les étudiants de 42)
 
 #### Ressources informatiques
 - [Lucidchart](https://www.lucidchart.com/pages/usecase/education) : Outil de diagrammes - **GRATUIT** - renseigner votre adresse mail étudiante
