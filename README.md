@@ -8,11 +8,15 @@ Liste de ressources utiles pour les étudiants de [42](https://www.42.fr/).
 </tr>
 <tr>
   <td>Facebook</td>
-  <td><a href="https://www.facebook.com/42born2code/">42born2code</a></td>
+  <td><a href="https://www.facebook.com/42born2code/">42Born2Code</a></td>
 </tr>
 <tr>
   <td>LinkedIn</td>
   <td><a href="https://www.linkedin.com/company/42-born2code/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="80" /></a></td>
+</tr>
+  <tr>
+  <td>Instagram</td>
+  <td><a href="https://www.instagram.com/42.born2code/?hl=fr">42Born2Code</a></td>
 </tr>
 </table>
 
@@ -76,12 +80,14 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 
 #### Banques
 
+- Pumpkin 3 euros offerts pour les nouveaux inscrits avec le code: UNICODE42
+
 #### Bars
 
 - Le 95 *95 Boulevard Bessières, PARIS 17, 75017*
-- Le Cafée du Théatre (dit CDT) *86 Rue de La Jonquière*
+- Le Café du Théatre (dit CDT) *86 Rue de La Jonquière*
 - Les phénomènes *63 Rue de La Jonquière, 75017 Paris*
-- Chez Irrène et Bernard : *58 Rue Gauthey, 75017 Paris*
+- Chez Irène et Bernard : *58 Rue Gauthey, 75017 Paris*
 
 #### Culture
 - [Artistik Rezo](http://www.clubartistikrezo.com) : Sorties culturelles toute l'année valables pour deux personnes - **GRATUIT** - compléter le [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSf7ZvrcLHmTYbqN7IsILcakVAzHz6-FzrlxLor-U9I3Lv3X-Q/viewform)
