@@ -80,7 +80,7 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 
 #### Banques
 
-- Pumpkin 3 euro offert pour les nouveauw inscrits avec le code: UNICODE42
+- Pumpkin 3 euros offerts pour les nouveaux inscrits avec le code: UNICODE42
 
 #### Bars
 
