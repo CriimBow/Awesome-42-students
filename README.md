@@ -45,6 +45,7 @@ Merci aux contributeurs !
 - Vous avez faim ? [Steakoverflow](https://steakoverflow.42.fr/) est là pour vous
 - Le [slack](https://42born2code.slack.com)
 - Le [stackoverflow](https://stackoverflow.com/c/42network/)
+- Réserver un créneau : [Réservation 42network](https://reservation.42network.org)
 
 ### Liens externes
 - [42 CheatSheet](https://github.com/agavrel/42_CheatSheet)
@@ -80,12 +81,12 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 
 #### Banques
 
-- Pumpkin 3 euros offerts pour les nouveaux inscrits avec le code: UNICODE42
+- Pumpkin 3€ offerts pour les nouveaux inscrits avec le code: **UNICODE42**
 
 #### Bars
 
-- Le 95 *95 Boulevard Bessières, PARIS 17, 75017*
-- Le Café du Théatre (dit CDT) *86 Rue de La Jonquière*
+- Le 95 *95 Boulevard Bessières, 75017 Paris*
+- Le Café du Théatre (dit CDT) *86 Rue de La Jonquière, 75017 Paris*
 - Les phénomènes *63 Rue de La Jonquière, 75017 Paris*
 - Chez Irène et Bernard : *58 Rue Gauthey, 75017 Paris*
 
@@ -94,9 +95,11 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 
 #### Nourriture
 - [Nestor](https://nestorparis.com) : Livraison de repas - **8€** - renseigner l'adresse "96 Boulevard des Maréchaux, 75017 Paris" avec le coupon `NESTOR42`
-- [Pizza King](https://pizzakingparis17.fr/) *107 Boulevard Bessières, PARIS 17, 75017* : Pizza à - **8€** - avec le menu 42, sur place ou à emporté
+- [Pizza King](https://pizzakingparis17.fr/) *107 Boulevard Bessières, 75017 Paris* : Pizza à - **8€** - avec le menu 42, sur place ou à emporté
 - La petite cabane *juste en face* : Tortillas, souflés, sandwitch de **3€** à **5€**, carte de fidélité pour 10 sanwitch achwté, le 11ème offert
 - [Vegan Hero](https://supervegan.business.site/) *118 Rue des Moines, 75017 Paris* - Fast food Végan (10% pour les étudiants de 42)
+- [Long Xiang](http://www.longxiang.fr/) *59 rue de la Jonquière, 75017 Paris* - Traiteur asiatique avec menu à **5€**.
+- [Le Mondiel](https://restaurantlemondial.fr) *190 bis Avenue de Clichy, 75017 Paris* - Restaurant Turc
 
 #### Ressources informatiques
 - [Lucidchart](https://www.lucidchart.com/pages/usecase/education) : Outil de diagrammes - **GRATUIT** - renseigner votre adresse mail étudiante
