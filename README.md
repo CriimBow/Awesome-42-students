@@ -95,7 +95,7 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 
 #### Nourriture
 - [Nestor](https://nestorparis.com) : Livraison de repas - **8€** - renseigner l'adresse "96 Boulevard des Maréchaux, 75017 Paris" avec le coupon `NESTOR42`
-- [Pizza King](https://pizzakingparis17.fr/) *107 Boulevard Bessières, 75017 Paris* : Pizza à - **8€** - avec le menu 42, sur place ou à emporté
+- [Pizza King](https://pizzakingparis17.fr/) *107 Boulevard Bessières, 75017 Paris* : Pizza à - **7€** - avec le menu 42, sur place ou à emporté
 - La petite cabane *juste en face* : Tortillas, souflés, sandwitch de **3€** à **5€**, carte de fidélité pour 10 sanwitch achwté, le 11ème offert
 - [Vegan Hero](https://supervegan.business.site/) *118 Rue des Moines, 75017 Paris* - Fast food Végan (10% pour les étudiants de 42)
 - [Long Xiang](http://www.longxiang.fr/) *59 rue de la Jonquière, 75017 Paris* - Traiteur asiatique avec menu à **5€**.
