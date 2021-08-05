@@ -67,6 +67,7 @@ Rejoignez le slack des clubs et associations : #42paris_club_NomDuClub.
 - 42lux
 - [Alumni de 42](https://alumni.42.fr/)
 - AK-42 : Club de airsoft
+- [APT42](https://apt42.fr/) : Communauté pour progresser en infosec
 - [L'Association Sans Nom](https://sansnom.org/) : Libre, sécurité et lock picking
 - BDE
 - [CPP42](https://cpp42.fr/)
